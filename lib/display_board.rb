@@ -6,5 +6,7 @@ def display_board
   puts cells, pipe, cells, pipe, cells
   puts dash
   puts cells, pipe, cells, pipe, cells
+  puts dash
+  puts cells, pipe, cells, pipe, cells
 
 end
