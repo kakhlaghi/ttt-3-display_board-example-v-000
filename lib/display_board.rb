@@ -3,8 +3,8 @@ def display_board
   cells = ["   "]
   pipe = ["|"]
   dash= ["-----------"]
-  print cells
-  pipe, cells, pipe, cells
+  print cells, pipe, cells, pipe
+  puts cells
   puts dash
   print cells, pipe, cells, pipe, cells
   puts dash
