@@ -9,6 +9,7 @@ def display_board
   print cells + pipe + cells + pipe
   puts cells
   puts dash
-  print cells + pipe + cells + pipe + cells
+  print cells + pipe + cells + pipe
+  puts cells
 
 end
