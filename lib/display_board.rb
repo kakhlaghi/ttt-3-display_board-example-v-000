@@ -1,12 +1,12 @@
 # Define a method display_board that prints a 3x3 Tic Tac Toe Board
 def display_board
-  cells = ["   "]
-  pipe = ["|"]
-  dash= ["-----------"]
+  cells = [   ]
+  pipe = [|]
+  dash= [-----------]
   print cells, pipe, cells, pipe
   puts cells
   print dash
-  print cells, pipe, cells, pipe, cells
+   cells, pipe, cells, pipe, cells
   puts dash
   print cells, pipe, cells, pipe, cells
 
