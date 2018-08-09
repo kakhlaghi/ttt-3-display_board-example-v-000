@@ -5,7 +5,7 @@ def display_board
   dash= ["-----------"]
   print cells, pipe, cells, pipe
   puts cells
-  puts dash
+  print dash
   print cells, pipe, cells, pipe, cells
   puts dash
   print cells, pipe, cells, pipe, cells
